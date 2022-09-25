@@ -1,4 +1,4 @@
-/*
+
 let ulDOM = document.querySelector("ul#list")
 let liDOM = document.createElement('li')
 
@@ -14,4 +14,3 @@ Quidem.classList.add("text-primary")
 console.log(Quidem.classList)
 Quidem.classList.add("title")
 Quidem.classList.add("new info", "second class")
-*/
